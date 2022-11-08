@@ -4,7 +4,7 @@ Asignatura: Parallel and Distributed Computing
 
 Tema: Rendimiento cython/python: Problema Planeta en Orbita
 
-Estudiante: Christian David Jimnez
+Estudiante: Christian David Jiménez
 
 # Introducción
 
