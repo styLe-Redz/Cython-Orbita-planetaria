@@ -27,3 +27,11 @@ Al declarar el tipo y las dimensiones de una matriz antes de crearla, Cython pue
 # Más mejoras de indexación
 
 Python todavía está realizando una verificación de límites para matrices (es decir, intentar acceder fuera de la memoria asignada da un error) y permite la indexación negativa. Si no se necesita la indexación negativa y se está seguro de que no hay errores fuera de los límites en la indexación, el rendimiento se puede mejorar aún más al deshabilitar la indexación negativa y la verificación de límites para todas las operaciones de indexación dentro de la función. 
+
+# Pruebas de rendimiento
+
+La primera grafica muestra el comportamiento entre dos variables, la carga y el tiempo de ejecucion del programa usando solo Python:
+
+![Uploading imagen.png…]()
+
+
