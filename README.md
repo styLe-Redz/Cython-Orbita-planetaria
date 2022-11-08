@@ -1,7 +1,11 @@
 Docente: John Jairo Corredor Franco
+
 Asignatura: Parallel and Distributed Computing
+
 Tema: Rendimiento cython/python: Problema Planeta en Orbita
+
 Estudiante: Christian David Jimenez
+
 # Introduccion
 
 El siguiente laboratorio tiene como finalidad presentar una comparativa de rendimiento entre Python y Cython, a través de operaciones aritméticas y ecuaciones diferenciales ordinarias con el fin de realizar una simulación donde se determine la velocidad y movimiento de un cuerpo celeste.
