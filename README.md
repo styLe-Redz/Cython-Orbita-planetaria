@@ -4,9 +4,9 @@ Asignatura: Parallel and Distributed Computing
 
 Tema: Rendimiento cython/python: Problema Planeta en Orbita
 
-Estudiante: Christian David Jimenez
+Estudiante: Christian David Jimnez
 
-# Introduccion
+# Introducción
 
 El siguiente laboratorio tiene como finalidad presentar una comparativa de rendimiento entre Python y Cython, a través de operaciones aritméticas y ecuaciones diferenciales ordinarias con el fin de realizar una simulación donde se determine la velocidad y movimiento de un cuerpo celeste.
 
@@ -54,7 +54,7 @@ En la tercer grafica se aprecia la relacion entre ambas graficas, notando que el
 
 ![imagen](https://user-images.githubusercontent.com/101473794/200692866-da839573-4d3c-4cbe-b062-25c1d7e26617.png)
 
-# Analisis y conclusiones
+# Anlisis y conclusiones
 
 - Cython es un lenguaje que se escribe de forma muy similar a Python, pero permite la utilización de librerías y variables de tipo C. Por tanto, se puede conseguir la velocidad de C manteniendo la simplicidad de sintaxis proporcionada por Python. Además, una de sus grandes versatilidades es que se pueden mezclar definiciones explícitas de variables C con variables de Python, como pueden ser los diccionarios.
 
