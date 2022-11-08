@@ -14,7 +14,7 @@ El siguiente laboratorio tiene como finalidad presentar una comparativa de rendi
 
 Cython ha sido durante mucho tiempo una de las grandes armas secretas del rendimiento de Python, permitiéndote convertir el código Python en C para obtener velocidad. El modo Python puro permite que las herramientas de análisis de código y linting de Python trabajen con los módulos de Cython. La cultura existente de herramientas de Python no tiene por qué terminar en la barrera de Cython.
 
-# Que se logra hacer en el problema de: Planet in orbit
+# Qué se logra hacer en el problema de: Planet in orbit
 
 ![imagen](https://user-images.githubusercontent.com/101473794/200685827-7930f19a-07ee-4619-8391-85d2bb929a97.png)
 
@@ -54,7 +54,7 @@ En la tercer grafica se aprecia la relacion entre ambas graficas, notando que el
 
 ![imagen](https://user-images.githubusercontent.com/101473794/200692866-da839573-4d3c-4cbe-b062-25c1d7e26617.png)
 
-# Anlisis y conclusiones
+# Análisis y conclusiones
 
 - Cython es un lenguaje que se escribe de forma muy similar a Python, pero permite la utilización de librerías y variables de tipo C. Por tanto, se puede conseguir la velocidad de C manteniendo la simplicidad de sintaxis proporcionada por Python. Además, una de sus grandes versatilidades es que se pueden mezclar definiciones explícitas de variables C con variables de Python, como pueden ser los diccionarios.
 
